@@ -12,8 +12,6 @@ I’m a Computer Science student passionate about Agentic AI, Generative AI, and
 ![](https://nirzak-streak-stats.vercel.app/?user=saikrish1105&theme=maroongold&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saikrish1105&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saikrish1105&theme=maroongold&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=saikrish1105&limit=5&theme=maroongold&combine_all_yearly_contributions=true)
