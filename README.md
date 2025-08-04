@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+
 # 💫 About Me:
 I’m a Computer Science student passionate about Agentic AI, Generative AI, and multi-agent systems. I love exploring how AI can automate workflows, enhance user experiences, and solve real-world problems. My recent work includes RAG pipelines, CrewAI-based recommendation systems, and AI-driven retail automation.<br><br>Currently, I’m expanding my skill set by learning Backend Development with FastAPI and Full-Stack Development with React.js to build scalable AI-powered applications.<br><br>I’m always curious about emerging AI technologies, cloud deployment, and integrating intelligent systems into practical products. Check out my projects and feel free to connect or collaborate!
 
