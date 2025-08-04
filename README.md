@@ -7,7 +7,8 @@ CS student with a soft spot for Agentic AI, Generative AI, and multi-agent mayhe
 
 ## 🌐 Socials:
 [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/sai-krish-naidu-54550521a/)
-[![Instagram](https://github.com/maurodesouza/profile-readme-generator/blob/main/src/assets/icons/social/instagram/default.svg)](https://instagram.com/saikrish1105)
+[![Instagram](https://github.com/maurodesouza/profile-readme-generator/blob/main/src/assets/icons/social/instagram/default.svg)]
+(https://instagram.com/saikrish1105)
 
 
 # 💻 Tech Stack:
